@@ -18,11 +18,12 @@ jobs:
           java-version: '21'
 
       - name: Build mod
+        working-directory: Journal-SMP-Build-Ready/Journal-SMP-Minecraft-Mod
         run: chmod +x gradlew && ./gradlew --no-daemon build
 
       - name: Upload JAR
         uses: actions/upload-artifact@v4
         with:
           name: journalsmp-fabric-1.21.11
-          path: build/libs/*.jar
+          path: Journal-SMP-Build-Ready/Journal-SMP-Minecraft-Mod/build/libs/*.jar
           if-no-files-found: error
