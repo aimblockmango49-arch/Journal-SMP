@@ -1,0 +1,12 @@
+{
+  "item.journalsmp.einos_playbook": "Eino's Playbook",
+  "item.journalsmp.arbys_menu": "Arby's Menu",
+  "item.journalsmp.journals_journal": "Journal's Journal",
+  "item.journalsmp.dexzyns_afklog": "Dexzyn's AFK Log",
+  "item.journalsmp.aces_blueprint": "Ace's Blueprint",
+  "itemGroup.journalsmp.journals": "Journal SMP",
+  "ability.journalsmp.active": "%s activated %s!",
+  "ability.journalsmp.cooldown": "%s is on cooldown for %s.",
+  "ability.journalsmp.offhand": "Hold this journal in your off-hand to use its powers.",
+  "ability.journalsmp.claimed": "This journal has already been claimed by the server."
+}

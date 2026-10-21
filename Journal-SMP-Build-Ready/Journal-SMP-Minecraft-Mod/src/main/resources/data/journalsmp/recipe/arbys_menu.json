@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "AGA",
+    "CBC",
+    "GHE"
+  ],
+  "key": {
+    "A": "minecraft:golden_apple",
+    "G": "minecraft:golden_carrot",
+    "C": "minecraft:cooked_beef",
+    "B": "minecraft:book",
+    "H": "minecraft:honey_bottle",
+    "E": "minecraft:enchanted_golden_apple"
+  },
+  "result": {
+    "id": "journalsmp:arbys_menu",
+    "count": 1
+  }
+}

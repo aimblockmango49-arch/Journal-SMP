@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "IDI",
+    "OBP",
+    "CDN"
+  ],
+  "key": {
+    "I": "minecraft:iron_block",
+    "D": "minecraft:diamond",
+    "O": "minecraft:obsidian",
+    "B": "minecraft:book",
+    "P": "minecraft:diamond_pickaxe",
+    "C": "minecraft:copper_block",
+    "N": "minecraft:netherite_ingot"
+  },
+  "result": {
+    "id": "journalsmp:aces_blueprint",
+    "count": 1
+  }
+}

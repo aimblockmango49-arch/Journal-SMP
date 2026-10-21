@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "BEB",
+    "RBD",
+    "ES "
+  ],
+  "key": {
+    "B": "minecraft:blaze_rod",
+    "E": "minecraft:ender_pearl",
+    "R": "minecraft:firework_rocket",
+    "D": "minecraft:diamond",
+    "S": "minecraft:netherite_scrap"
+  },
+  "result": {
+    "id": "journalsmp:journals_journal",
+    "count": 1
+  }
+}

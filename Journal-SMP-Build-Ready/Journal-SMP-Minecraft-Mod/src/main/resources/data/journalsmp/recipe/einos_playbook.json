@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EGE",
+    "DBT",
+    "EGE"
+  ],
+  "key": {
+    "E": "minecraft:emerald",
+    "G": "minecraft:gold_ingot",
+    "D": "minecraft:diamond",
+    "B": "minecraft:book",
+    "T": "minecraft:totem_of_undying"
+  },
+  "result": {
+    "id": "journalsmp:einos_playbook",
+    "count": 1
+  }
+}

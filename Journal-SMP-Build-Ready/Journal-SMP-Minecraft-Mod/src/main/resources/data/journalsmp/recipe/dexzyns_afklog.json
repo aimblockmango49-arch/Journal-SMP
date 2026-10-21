@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "IPI",
+    "SBC",
+    "PL "
+  ],
+  "key": {
+    "I": "minecraft:iron_block",
+    "P": "minecraft:phantom_membrane",
+    "S": "minecraft:slime_block",
+    "B": "minecraft:book",
+    "C": "minecraft:heavy_core",
+    "L": "minecraft:clock"
+  },
+  "result": {
+    "id": "journalsmp:dexzyns_afklog",
+    "count": 1
+  }
+}

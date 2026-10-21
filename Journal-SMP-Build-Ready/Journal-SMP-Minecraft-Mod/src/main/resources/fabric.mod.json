@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "journalsmp",
+  "version": "${version}",
+  "name": "Journal SMP",
+  "description": "Five custom journals with server-authoritative abilities for Journal SMP.",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "dev.journalsmp.JournalSmpMod"
+    ],
+    "client": [
+      "dev.journalsmp.client.JournalSmpClient"
+    ]
+  },
+  "mixins": [
+    "journalsmp.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": ">=0.141.1"
+  }
+}
